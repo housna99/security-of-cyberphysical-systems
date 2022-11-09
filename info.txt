@@ -1,4 +1,0 @@
-Nombre d'attacks par state/service/proto : au total on a 321283 attacks 
-Nombre de state: 13
-Nombre de service :16
-Nombre de protocole : 135 => pour les graphes (on represente les 20 plus importants )
